@@ -2,7 +2,7 @@
 
 Простая программа на Java, которая издает звуковой сигнал при смене раскладки клавиатуры. Программа работает в фоновом режиме и сворачивается в системный трей.
 
-![Java](https://img.shields.io/badge/Java-17+-blue)
+![Java](https://img.shields.io/badge/Java-21+-blue)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
 ![Windows](https://img.shields.io/badge/Platform-Windows-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
