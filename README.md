@@ -56,7 +56,7 @@ LayoutBepeer/
 
 1. **Клонируйте или скачайте проект**
    ```bash
-   git clone https://github.com/ваш-username/LayoutBepeer.git
+   git clone https://github.com/AlexanderPanshin/LayoutBepeer
    cd LayoutBepeer
    ```
 
